@@ -1,5 +1,5 @@
 import java.security.SecureRandom;
-
+//Day 1 - Generating a random number within a specific range.
 public class Main {
     public static final SecureRandom random = new SecureRandom();
 
