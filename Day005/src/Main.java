@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
+//Day 5 - Creating a list with filtered items from other lists.
 public class Main {
     private static final String GUITAR = "Guitar";
     private static final String DRUMS = "Drums";
