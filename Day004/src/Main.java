@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
-
+//Day 4 - Removing items from a List.
 public class Main {
     public static void main(String[] args) {
 
