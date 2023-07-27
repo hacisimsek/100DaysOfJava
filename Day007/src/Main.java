@@ -1,5 +1,5 @@
 import java.text.MessageFormat;
-
+//Day 7 - Formatting a message using MessageFormat.
 public class Main {
     public static void main(String[] args) {
 
