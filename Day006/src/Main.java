@@ -4,7 +4,7 @@ import java.util.concurrent.ForkJoinPool;
 import java.util.logging.Logger;
 
 import static java.util.concurrent.TimeUnit.SECONDS;
-
+//Day 6 - Running a task asynchronously.
 public class Main {
     private static final Logger LOGGER = Logger.getLogger(Main.class.getName());
 
