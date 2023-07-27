@@ -3,7 +3,7 @@ import java.text.MessageFormat;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.logging.Logger;
-
+//Day 8 - Creating a thread pool to run tasks simultaneously and reuse threads.
 public class Main {
     private static final Logger LOGGER = Logger.getLogger(Main.class.getName());
     private static final SecureRandom RANDOM = new SecureRandom();
