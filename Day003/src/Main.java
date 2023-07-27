@@ -1,7 +1,7 @@
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
-
+//Day 3 - Scheduling a task to run every 2 seconds.
 public class Main {
     private final ScheduledExecutorService scheduler = Executors.newSingleThreadScheduledExecutor();
     public static void main(String[] args) {
