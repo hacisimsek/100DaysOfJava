@@ -1,0 +1,6 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¾òñƒÿÿÿÿÿ8šÕé»¶1
+0
+java:S1220""Move this file to a named package.
+G	java:S106"+Replace this use of System.out by a logger.(øÛ•8¤Õé»¶1
+G	java:S106"+Replace this use of System.err by a logger.(•÷¶ı8¤Õé»¶1
