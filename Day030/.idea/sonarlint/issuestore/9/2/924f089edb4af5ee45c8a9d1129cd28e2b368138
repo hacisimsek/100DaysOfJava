@@ -1,0 +1,13 @@
+
+0
+java:S1220""Move this file to a named package.
+_
+java:S1854"=Remove this useless assignment to local variable "listJdk16".(ï¶Ú¸ûÿÿÿÿ8ã¤Œ¸1
+T
+java:S1854"8Remove this useless assignment to local variable "list".(Ô„şn8ã¤Œ¸1
+n
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ô„şn8»€¸1
+E
+java:S1481")Remove this unused "list" local variable.(Ô„şn8é¤Œ¸1
+P
+java:S1481".Remove this unused "listJdk16" local variable.(ï¶Ú¸ûÿÿÿÿ8é¤Œ¸1
