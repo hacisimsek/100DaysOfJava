@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+L	java:S106"+Replace this use of System.out by a logger.(´Ìõ­üÿÿÿÿ8ìŽ°ì»1
+x
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(íÎÆ8¤ð°ì»1
+]	java:S125"<This block of commented-out lines of code should be removed.(õÙÚÚøÿÿÿÿ8íŽ°ì»1
