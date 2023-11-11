@@ -1,0 +1,22 @@
+
+m
+java:S1192:"KDefine a constant instead of duplicating this literal "Dizzy Reed" 3 times.(ÀŞ¢­ÿÿÿÿÿ8àÌüë»1
+m
+java:S1192
+"KDefine a constant instead of duplicating this literal "Matt Sorum" 3 times.(ò¼Üøúÿÿÿÿ8àÌüë»1
+k
+java:S1192	"NDefine a constant instead of duplicating this literal "Izzy Stradlin" 3 times.(š†Ü¿8áÌüë»1
+f
+java:S11929"IDefine a constant instead of duplicating this literal "Axl Rose" 4 times.(˜İúï8áÌüë»1
+j
+java:S11929"MDefine a constant instead of duplicating this literal "Duff McKagan" 3 times.(˜İúï8áÌüë»1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Slash" 5 times.(§¯Ú½8áÌüë»1
+0
+java:S1220""Move this file to a named package.
+G	java:S106"+Replace this use of System.out by a logger.(§¯Ú½8íÌüë»1
+G	java:S106	"+Replace this use of System.out by a logger.(š†Ü¿8ğÌüë»1
+L	java:S106
+"+Replace this use of System.out by a logger.(ò¼Üøúÿÿÿÿ8òÌüë»1
+v
+java:S4276,"YRefactor this code to use the more specialised Functional Interface 'UnaryOperator<List>'(»­Í¢8£Óıë»1
