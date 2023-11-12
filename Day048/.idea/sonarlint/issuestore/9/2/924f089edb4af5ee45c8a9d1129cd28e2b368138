@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+s
+java:S4276	"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(αΐώΙ8Κ§Ό1
+X	java:S125"<This block of commented-out lines of code should be removed.(ΨπΊ8™§Ό1
+L	java:S106"+Replace this use of System.out by a logger.(»ξατώÿÿÿÿ8›§Ό1
