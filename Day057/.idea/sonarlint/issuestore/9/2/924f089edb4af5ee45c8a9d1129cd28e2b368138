@@ -1,0 +1,13 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(à ¡ª8¡žŠ­À1
+0
+java:S1220""Move this file to a named package.
+T
+java:S1854"8Remove this useless assignment to local variable "map2".(ËÁ¾v8¦žŠ­À1
+U
+java:S1854"8Remove this useless assignment to local variable "map1".(à ¡ª8¦žŠ­À1
+F
+java:S1481")Remove this unused "map1" local variable.(à ¡ª8ªžŠ­À1
+E
+java:S1481")Remove this unused "map2" local variable.(ËÁ¾v8ªžŠ­À1
