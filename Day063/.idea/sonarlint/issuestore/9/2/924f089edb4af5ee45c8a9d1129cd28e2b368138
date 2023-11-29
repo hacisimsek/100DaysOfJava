@@ -1,0 +1,9 @@
+
+0
+java:S1220""Move this file to a named package.
+G	java:S106
+"+Replace this use of System.out by a logger.(ˆö©8³¬€ÕÁ1
+L	java:S106"+Replace this use of System.out by a logger.(Û‚Ó³ıÿÿÿÿ8µ¬€ÕÁ1
+J
+java:S3985"(Remove this unused private "Bird" class.(Ï±â ùÿÿÿÿ8¶¬€ÕÁ1
+L	java:S106"+Replace this use of System.out by a logger.(õÄ°ùÿÿÿÿ8·¬€ÕÁ1
