@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+L	java:S106"+Replace this use of System.out by a logger.(çù×úÿÿÿÿ8ê›šÀÄ1
+F	java:S106"+Replace this use of System.out by a logger.(Ù§òV8ì›šÀÄ1
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(‚¼ı·ÿÿÿÿÿ8ğ›šÀÄ1
